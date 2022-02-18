@@ -1,3 +1,0 @@
-Computer graphice project
---------------------------
-Moving car in a night city.
